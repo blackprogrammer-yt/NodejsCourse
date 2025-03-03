@@ -1,0 +1,31 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "description": "Node JS Tutorial 2024",
+  "main": "coreModules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackprogrammer-yt/NodejsCourse/upload/main"
+  },
+  "keywords": [
+    "The",
+    "Techzeen"
+  ],
+  "author": "Muhammad Owais Rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackprogrammer-yt/NodejsCourse/upload/main"
+  },
+  "homepage": "https://github.com/blackprogrammer-yt/NodejsCourse/upload/main",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
