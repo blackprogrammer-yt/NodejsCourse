@@ -1,5 +1,5 @@
 # NodejsCourse
-"author": " Owais Rao",
+"author": "Muhammad Owais Rao",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/blackprogrammer-yt/NodejsCourse/upload/main"
